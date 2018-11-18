@@ -146,7 +146,7 @@ V.3.Account infomation view
 
 VI.Python implementation
 ========================
-* First, change the current directory into foler `python`. Afterward, activate the virtual environment that has been installed OpenCV. Assume virtual environment named `cv`.
+* First, change the current directory into folder `python`. Afterward, activate the virtual environment that has been installed OpenCV. Assume virtual environment named `cv`.
 ```
 cd python/
 workon cv
